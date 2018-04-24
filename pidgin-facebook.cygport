@@ -1,12 +1,12 @@
 NAME="pidgin-facebook"
-VERSION=0.9.0
+VERSION=0.9.5
 RELEASE=1
 CATEGORY="Net"
 SUMMARY="Pidgin Facebook chat protocol plugin"
 DESCRIPTION="Purple Facebook implements the Facebook Messenger protocol into
 pidgin, finch, and libpurple."
 HOMEPAGE="https://github.com/dequis/purple-facebook"
-commit=c9b74a765767
+commit=9ff9acf9fa14
 SRC_URI="${HOMEPAGE}/releases/download/v${VERSION}-${commit}/purple-facebook-${VERSION}-${commit}.tar.gz"
 SRC_DIR="purple-facebook-${VERSION}-${commit}"
 PATCH_URI="
